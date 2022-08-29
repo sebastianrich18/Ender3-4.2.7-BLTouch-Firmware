@@ -21,3 +21,5 @@ Config files and binary for Creality Ender3 with BLTouch (Silent Motherboard v4.
   * `#define BLTOUCH_DELAY 300`
   * `#define BLTOUCH_HS_MODE true`
   
+# Other configurations
+Other configurations can be found on Marlin's github [here](https://github.com/MarlinFirmware/Configurations)
